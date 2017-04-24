@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sumeet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Sumeet\Desktop\Assignment11-master\Android_assignment4_session_11\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c0d9fe30d349072efbe17de574efe6d3d71f1e55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sumeet\Desktop\Assignment11-master\Android_assignment4_session_11\app\libs\android-query-full.0.26.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="C:\Users\Sumeet\Desktop\Assignment11-master\Android_assignment4_session_11\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.7_994435708cb68d041e481ba1759a4c673e7a18a5.jar" />
+    </item>
+
+</items>
